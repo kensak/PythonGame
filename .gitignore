@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+
+# Pygame specific
+*.pyc
+
+# Operating System
+.DS_Store
+thumbs.db
