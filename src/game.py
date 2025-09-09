@@ -23,7 +23,7 @@ class Game:
         self.current_block = self.new_block()
         self.running = True
         self.fall_time = 0
-        self.fall_speed = 80  # milliseconds (bigger is slower)
+        self.fall_speed = 80  # milliseconds (bigger is slower)        
         self.state = 'start'
         self.start_time = pygame.time.get_ticks()
 
